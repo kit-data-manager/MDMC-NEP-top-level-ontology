@@ -40,14 +40,25 @@ e.g. the Material Science Lab Equipment (MSLE) Ontology.
 
 This activity is a sub-task of the MDMC Metadata Working Group. Thus, the team is a sub-group of the MDMC Metadata Working Group. Additional participants are included to enforce the collaboration on specific use cases. 
 
-- Rossella Aversa (Steinbuch Centre for Computing, Karlsruhe Institute of Technology): task leader, designs the idea and plans the activities
-- Ahmad Z. Ihsan (Forschungszentrum Jülich, Institute of Advanced Simulations – Materials Data Science and Informatics (IAS-9), RWTH Aachen University, Faculty 5): main developer, implements the OWL file
-- Mehrdad Jalali (Institute of Functional Interfaces, Karlsruhe Institute of Technology): developer, implements the MSLE Ontology
-- Mirco Panighel (Consiglio Nazionale delle Ricerche - Istituto Officina dei Materiali): developer, contributes to the STM application 
-- Elda Osmenaj (Consiglio Nazionale delle Ricerche - Istituto Officina dei Materiali): developer, contributes to the STM application
+- **Rossella Aversa** (Steinbuch Centre for Computing, Karlsruhe Institute of Technology): task leader, designs the idea and plans the activities
+- **Ahmad Z. Ihsan** (Forschungszentrum Jülich, Institute of Advanced Simulations – Materials Data Science and Informatics (IAS-9), RWTH Aachen University, Faculty 5): main developer, implements the OWL file
+- **Mehrdad Jalali** (Institute of Functional Interfaces, Karlsruhe Institute of Technology): developer, implements the MSLE Ontology
+- **Mirco Panighel** (Consiglio Nazionale delle Ricerche - Istituto Officina dei Materiali): developer, contributes to the STM application 
+- **Elda Osmenaj** (Consiglio Nazionale delle Ricerche - Istituto Officina dei Materiali): developer, contributes to the STM application
 
 ## History
 
+- 08.09.2021 Rossella presented the activities to the MDMC Working Group. Ahmad and Mehrdad agreed to establish the sub-task
+- 16.09.2021 Rossella, Ahmad and Mehrdad started regular weekely meetings
+- 28.09.2021 Ahmad created the repository on his personal GitHub page, including the first version of OWL
+- 05.06.2021 Mehrdad presented the first graphical version to the MDMC Working Group
+- 06.10.2021 Rossella and Ahmad presented the first version of competency questions
+- 26.10.2021 Mehrdad presented the second graphical version to the MDMC Working Group
+- 27.10.2021 Mehrdad presented the MSLE Ontology mapping example to the MDMC Working Group, Rossella presented the second version of competency questions
+- 10.11.2021 Rossella, Ahmad and Mehrdad agreed on presenting the ontology in a paper with an application. Looking for applications
+- 18.01.2021 Elda and Mirco joined the group, presenting their use case on STM
+- 14.02.2021 Rossella and Ahmad presented the results at the MDMC Workshop
+- 18.02.2021 Rossella forked the repository to the KIT GitHub page
 
 
 ## Acknowledgements
