@@ -59,7 +59,8 @@ This activity is a sub-task of the MDMC Metadata Working Group. Thus, the team i
 - 18.01.2021 Elda and Mirco joined the group, presenting their use case on STM
 - 14.02.2021 Rossella and Ahmad presented the results at the MDMC Workshop
 - 18.02.2021 Rossella forked the repository to the KIT GitHub page
-
+- 01.03.2021 Mehrdad graphically represented the Data Analysis Lifecycle according to commonly agreed definitions
+- 08.03.2021 Rossella created a comprehensive list of competency questions. Rossella, Ahmad, Mehrdad and Elda discussed the mapping of the STM usecase
 
 ## Acknowledgements
 
