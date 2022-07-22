@@ -61,6 +61,8 @@ This activity is a sub-task of the MDMC Metadata Working Group. Thus, the team i
 - 18.02.2022 Rossella forked the repository to the KIT GitHub page
 - 01.03.2022 Mehrdad graphically represented the Data Analysis Lifecycle according to commonly agreed definitions
 - 08.03.2022 Rossella created a comprehensive list of competency questions. Rossella, Ahmad, Mehrdad and Elda discussed the mapping of the STM usecase
+- 20.06.2022 Rossella submitted the final version of the MDMC Glossary of terms, to be published on the MDMC website: https://jl-mdmc-helmholtz.de/mdmc-activities/materials-data-handling/
+
 
 ## Acknowledgements
 
