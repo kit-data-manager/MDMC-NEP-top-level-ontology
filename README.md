@@ -2,7 +2,7 @@
 
 This repository collects the ongoing work towards the development of the top-level ontology based on common terms defined for the Joint Lab 
 "Integrated Model and Data Driven Materials Characterization" (MDMC) and for the "Nanoscience Foundries and Fine Analysis Europe Pilot" (NEP).
-The [MDMC top-level glossary](MDMC Glossary of terms.docx) defining the terms is available (as a living document which can be constantly updated) in this folder] and contains definitions in agreement with the NEP Glossary available on the [NFFA-Europe website](https://www.nffa.eu/apply/data-policy/glossary)
+The [MDMC top-level glossary](MDMC_Glossary_of_terms.docx) defining the terms is available (as a living document which can be constantly updated) in this folder] and contains definitions in agreement with the NEP Glossary available on the [NFFA-Europe website](https://www.nffa.eu/apply/data-policy/glossary)
 
 ## Aim
 
