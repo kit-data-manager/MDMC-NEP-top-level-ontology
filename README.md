@@ -2,7 +2,7 @@
 
 This repository collects the ongoing work towards the development of the top-level ontology based on common terms defined for the Joint Lab 
 "Integrated Model and Data Driven Materials Characterization" (MDMC) and for the "Nanoscience Foundries and Fine Analysis Europe Pilot" (NEP).
-The [MDMC top-level glossary](MDMC_Glossary_of_terms.docx) defining the terms is available (as a living document which can be constantly updated) in this folder] and contains definitions in agreement with the NEP Glossary available on the [NFFA-Europe website](https://www.nffa.eu/apply/data-policy/glossary)
+The [MDMC top-level glossary](MDMC_Glossary_of_terms.docx) defining the terms is available (as a living document which can be constantly updated) in this folder and contains definitions in agreement with the NEP Glossary available on the [NFFA-Europe website](https://www.nffa.eu/apply/data-policy/glossary)
 
 ## Aim
 
@@ -61,7 +61,10 @@ This activity is a sub-task of the MDMC Metadata Working Group. Thus, the team i
 - 18.02.2022 Rossella forked the repository to the KIT GitHub page
 - 01.03.2022 Mehrdad graphically represented the Data Analysis Lifecycle according to commonly agreed definitions
 - 08.03.2022 Rossella created a comprehensive list of competency questions. Rossella, Ahmad, Mehrdad and Elda discussed the mapping of the STM usecase
-- 20.06.2022 Rossella submitted the final version of the MDMC Glossary of terms, to be published on the MDMC website: https://jl-mdmc-helmholtz.de/mdmc-activities/materials-data-handling/
+- 20.06.2022 Rossella submitted the final version of the MDMC Glossary of terms
+- 13.97.2022 Mirco provided STM typical experiment results
+- 07.09.2022 Poster abstract for HMC conference (05-06.10.2022) was discussed among Ahmad, Mirco, Elda, Rossella
+- 13.09.2022 Ahmad and Mehrdad wrote the first set of competency questions. Poster content was discussed among Ahmad, Mirco, Elda, Rossella
 
 
 ## Acknowledgements
