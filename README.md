@@ -65,6 +65,11 @@ This activity is a sub-task of the MDMC Metadata Working Group. Thus, the team i
 - 13.97.2022 Mirco provided STM typical experiment results
 - 07.09.2022 Poster abstract for HMC conference (05-06.10.2022) was discussed among Ahmad, Mirco, Elda, Rossella
 - 13.09.2022 Ahmad and Mehrdad wrote the first set of competency questions. Poster content was discussed among Ahmad, Mirco, Elda, Rossella
+- 05-06.10.2022 Poster presented at the HMC conference
+- 31.10.2022 Poster uploaded on KITOpen: 10.5445/IR/1000152174
+- 13.12.2022 Poster published on Zenodo: 10.5281/zenodo.7432171
+- 07.02.2023 Rossella updated content
+- 15.02.paper draft initiated by Ahmad and Mehrdad was discussed and presented to the MDMC Working Group. PRIMA (PRovenance Information for MAterials science) was agreed as ontology prefix
 
 
 ## Acknowledgements
